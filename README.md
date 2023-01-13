@@ -1,1 +1,2 @@
 # ProjectJarmob
+Project akhir semster untuk melemgkapi nilai kami, dengan konsep bengkel mobil yang disatukan dengan servis mobil. dengan konsep menjadikan semua brand mobil menjadi satu aolkasi tanpa harus mendonwload aplkasi berbeda dengan brand yang berbeda pula. didalam aplkasi juga kami menambahkan fitur home servis, aksesoris, call center, dan darurat, yang dimana fitur tersebut sangat berguna ketika kita sedang ingin mencari atau memberikan feedback, terutama fitur darurat itu sangat penting karna bisa memancarkan sinyal SOS dan GPS secara akurat.
